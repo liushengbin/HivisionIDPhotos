@@ -61,12 +61,12 @@ def main(models_to_download):
     # 模型权重的下载链接
     model_urls = {
         "hivision_modnet": {
-            "url": "https://github.com/Zeyi-Lin/HivisionIDPhotos/releases/download/pretrained-model/hivision_modnet.onnx",
+            "url": "https://gh.imixc.top/github.com/Zeyi-Lin/HivisionIDPhotos/releases/download/pretrained-model/hivision_modnet.onnx",
             "format": "onnx",
             "location": "hivision/creator/weights",
         },
         "modnet_photographic_portrait_matting": {
-            "url": "https://github.com/Zeyi-Lin/HivisionIDPhotos/releases/download/pretrained-model/modnet_photographic_portrait_matting.onnx",
+            "url": "https://gh.imixc.top/github.com/Zeyi-Lin/HivisionIDPhotos/releases/download/pretrained-model/modnet_photographic_portrait_matting.onnx",
             "format": "onnx",
             "location": "hivision/creator/weights",
         },
@@ -80,12 +80,12 @@ def main(models_to_download):
             "location": "hivision/creator/weights",
         },
         "birefnet-v1-lite": {
-            "url": "https://github.com/ZhengPeng7/BiRefNet/releases/download/v1/BiRefNet-general-bb_swin_v1_tiny-epoch_232.onnx",
+            "url": "https://gh.imixc.top/github.com/ZhengPeng7/BiRefNet/releases/download/v1/BiRefNet-general-bb_swin_v1_tiny-epoch_232.onnx",
             "format": "onnx",
             "location": "hivision/creator/weights",
         },
         "retinaface-resnet50": {
-            "url": "https://github.com/Zeyi-Lin/HivisionIDPhotos/releases/download/pretrained-model/retinaface-resnet50.onnx",
+            "url": "https://gh.imixc.top/github.com/Zeyi-Lin/HivisionIDPhotos/releases/download/pretrained-model/retinaface-resnet50.onnx",
             "format": "onnx",
             "location": "hivision/creator/retinaface/weights",
         },
